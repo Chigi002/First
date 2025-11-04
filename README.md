@@ -1,3 +1,3 @@
 # First
 Author - Chirag Sinhmar
-University - Chandigarh University
+University - Chandigarh University Mohali
